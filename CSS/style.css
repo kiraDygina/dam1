@@ -1,0 +1,101 @@
+header{background-color: #FFCF40;
+height: 65px;position: relative; bottom: 18px;}
+
+h1{text-align: center;color: white;
+font-family: Arial, Helvetica, sans-serif;}
+
+
+body{background-color: whitesmoke;}
+.text{color: black; line-height: 25px;}
+
+.popka{width: 65px;
+height: 65px;
+margin-right: 250px;right: 20px;;}
+
+nav{
+color: black;border: none;
+display: flex;
+justify-content: space-around;}
+
+nav a{text-decoration: none;
+background-color:#A67B00;
+border-radius: 7px;
+padding: 6px;color: wheat;}
+
+nav a:hover{border: wheat solid;}
+
+.Jir{width: 280px;height: 305px;transition: 3s;}
+.Jir:hover
+{  font-size: 50px;
+border: 7px solid #FFD473	;
+
+    transition: 0.8s;}
+
+.img1{width: 63px;bottom: 2px;position: absolute ;}
+
+h2{color: #FFD473;
+font-family: Arial, Helvetica, sans-serif;text-align: center ;}
+
+.text2{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ text-align: justify;}
+ .text{text-align: justify;}
+
+ .img3{width: 280px;height: 305px;margin-left: 450px;}
+.img3:hover
+{  font-size: 50px;
+border: 7px solid #FFD473	;
+
+    transition: 0.8s;}
+.text3{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.img4{width: 280px;height: 305px;}
+.img4:hover{  font-size: 50px;
+border: 7px solid #FFD473	;
+
+    transition: 0.8s;}
+
+    .text4{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+h3{color: #FFD473;
+font-family: Arial, Helvetica, sans-serif;text-align: center ;}
+
+.text5{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;line-height: 25px;}
+
+.img5:hover{ font-size: 50px;
+border: 7px solid #FFD473	;
+
+    transition: 0.8s;}
+
+.img6{width: 350px;}
+.img6:hover{ font-size: 50px;
+border: 7px solid #FFD473	;
+
+    transition: 0.8s;}
+
+    .img7{width: 175px;height:225px;}
+
+.img7:hover{font-size: 50px;
+border: 7px solid #FFD473	;
+
+    transition: 0.8s;}
+
+    footer{color:whitesmoke ;background-color: #FFB600;}
+
+.img8{width: 25px;position: ;}
+
+ .img11{width: 20px;}                  
+
+h2{text-shadow: 1px 1px 1px black;}
+.po2{text-shadow: 1px 1px 1px black;}
+h3{text-shadow: 1px 1px 1px black;}
+
+
+
+
+.
+
+
+
+
+
+
+
